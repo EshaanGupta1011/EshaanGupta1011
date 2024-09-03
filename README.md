@@ -1,4 +1,4 @@
-Hi there, I'm Eshaan Gupta 👋
+### Hi there, I'm Eshaan Gupta 👋
 🎓 Pursuing Artificial Intelligence & Machine Learning
 GGSIPU EDC, University School of Automation and Robotics, New Delhi
 
