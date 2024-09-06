@@ -17,4 +17,5 @@ This space is my playground for learning, sharing, and evolving. I’m always ex
 🔗 Connect with Me [LinkedIn](https://www.linkedin.com/in/eshaan-gupta-0a97a6247/)!
 
 GitHub Stats 📊
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EshaanGupta1011&show_icons=true&theme=transparent" alt="Eshaan's GitHub Stats" /> </a> <a href="https://github.com/anuraghazra/convoychat"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaanGupta1011&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" /> </a>
